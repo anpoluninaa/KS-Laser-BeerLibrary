@@ -138,13 +138,13 @@ body {
 }
 .content{
     font-size: 13px;
-    color: black;
+    color: #2E363E;
     text-align: left;
     padding-bottom: 15px;
 }
 .expiration{
     text-align: left;
-    color: black;
+    color: #2E363E;
     font-size: 17px;
     font-weight: 700;
 }
