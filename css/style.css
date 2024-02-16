@@ -129,6 +129,25 @@ body {
     font-size: 13px;
     line-height: 152%;
 }
+.special-offers-usloviya {
+    font-size: 20px;
+    text-align: left;
+    color: gray;
+    padding-bottom: 15px;
+    font-weight: 700;
+}
+.content{
+    font-size: 13px;
+    color: black;
+    text-align: left;
+    padding-bottom: 15px;
+}
+.expiration{
+    text-align: left;
+    color: black;
+    font-size: 17px;
+    font-weight: 700;
+}
 
 .demo {
     margin-bottom: 27px;
